@@ -104,18 +104,18 @@ Please report any bugs or submit feature requests to [Vanilla-CSS github issue t
 
 ## Meet the Team  
 
-**Alex (aka aethant)**  
+**Alex (aka aethant)**
 * Scrum Master  
 * <https://github.com/aethant>  
 
-**Carl Winkler (aka seikho)**  
+**Carl Winkler (aka seikho)**
 * Lead Developer  
 * <https://github.com/seikho>  
 
-**Justin Maat (aka jxm262)**  
+**Justin Maat (aka jxm262)**
 * Lead Documentation Maintainer/Devops  
 * <https://github.com/jxm262>  
 
-**Tony Phillips**
+**Tony Phillips (aka neutraltone)**
 * Developer / Lead Translator of UK to US english
 * <https://github.com/neutraltone>  
