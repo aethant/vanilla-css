@@ -1,6 +1,6 @@
 # Vanilla CSS
 
-Vanilla CSS is a fast, lightweight, cross-platform CSS framework for building incredible, powerful JavaScript applications.
+Vanilla CSS is a fast, lightweight, cross-platform CSS framework for building incredible, powerful web applications.
 
 ## Introduction
 
