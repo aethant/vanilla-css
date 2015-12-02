@@ -1,4 +1,3 @@
-/// <reference path="src/typings/node/node.d.ts" />
 var gulp = require('gulp');
 var webpack = require('webpack');
 var minifyCss = require('gulp-minify-css');
