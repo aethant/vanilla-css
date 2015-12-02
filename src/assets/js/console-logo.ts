@@ -1,0 +1,10 @@
+console.log("thanks for using...");
+console.log("%c   __     __                      __  __  __                   ______    ______    ______    ", "font-family: monospace;color: blue;");
+console.log("%c  /  |   /  |                    /  |/  |/  |                 /      \\  /      \\  /      \\   ", "font-family: monospace;color: blue;");
+console.log("%c  $$ |   $$ |  ______   _______  $$/ $$ |$$ |  ______        /$$$$$$  |/$$$$$$  |/$$$$$$  |  ", "font-family: monospace;color: blue;");
+console.log("%c  $$ |   $$ | /      \\ /       \\ /  |$$ |$$ | /      \\       $$ |  $$/ $$ \__$$/ $$ \__$$/   ", "font-family: monospace;color: blue;");
+console.log("%c  $$  \\ /$$/  $$$$$$  |$$$$$$$  |$$ |$$ |$$ | $$$$$$  |      $$ |      $$      \\ $$      \\   ", "font-family: monospace;color: blue;");
+console.log("%c   $$  /$$/   /    $$ |$$ |  $$ |$$ |$$ |$$ | /    $$ |      $$ |   __  $$$$$$  | $$$$$$  |  ", "font-family: monospace;color: blue;");
+console.log("%c    $$ $$/   /$$$$$$$ |$$ |  $$ |$$ |$$ |$$ |/$$$$$$$ |      $$ \\__/  |/  \\__$$ |/  \\__$$ |  ", "font-family: monospace;color: blue;");
+console.log("%c     $$$/    $$    $$ |$$ |  $$ |$$ |$$ |$$ |$$    $$ |      $$    $$/ $$    $$/ $$    $$/   ", "font-family: monospace;color: blue;");
+console.log("%c      $/      $$$$$$$/ $$/   $$/ $$/ $$/ $$/  $$$$$$$/        $$$$$$/   $$$$$$/   $$$$$$/    ", "font-family: monospace;color: blue;");
