@@ -61,6 +61,18 @@ p {
 }
 ```
 ---  
+* Step 4 - Deploy
+
+Deploying Vanilla CSS in your next HTML project is as simple as placing a link element in the head of your HTML document.
+
+### Example
+```
+<head>
+<link rel="stylesheet" href="vanilla.css">
+</head>
+```
+Just save your HTML document, open it in your favorite web browser, and see the delicious results!
+
 
 ### Testimonials  
 > Native support for HTML5 and other cutting-edge technologies makes me keep coming back to Vanilla CSS, time after time.  
