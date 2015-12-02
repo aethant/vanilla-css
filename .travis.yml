@@ -3,3 +3,9 @@ node_js:
   - "5"
   - "4"
   - "0.12"
+  
+# whitelist
+branches:
+  only:
+    - master
+    - gh-pages
