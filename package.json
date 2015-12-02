@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/aethant/vanilla-css#readme",
   "devDependencies": {
+    "chai": "^3.4.1",
     "gulp": "^3.9.0",
-    "gulp-minify-css": "^1.2.2"
+    "gulp-minify-css": "^1.2.2",
+    "mocha": "^2.3.4"
   }
 }
