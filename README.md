@@ -1,4 +1,4 @@
-![vanilla css logo](assets/images/vanillacsslogo.jpg)
+![vanilla css logo](http://vanilla-css.com/assets/images/vanillacsslogo.jpg)
 ## Vanilla CSS - fast, lightweight, easy to understand framework for working with your front-end
 
 [![Travis build status](https://travis-ci.org/aethant/vanilla-css.svg?branch=gh-pages)](https://travis-ci.org/aethant/vanilla-css)
