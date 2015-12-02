@@ -25,7 +25,7 @@ The Vanilla CSS team maintains every byte of code in the framework and works har
 * Netflix  
 * Stack Overflow  
 
-In fact, Vanilla JS is already used on more websites than LESS, SASS, Stylus, and BEM - _combined_.  
+In fact, Vanilla CSS is already used on more websites than LESS, SASS, Stylus, and BEM - _combined_.  
   
 ### Download
 Ready to try Vanilla CSS?  Follow these simple steps
