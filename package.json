@@ -27,8 +27,10 @@
     "coveralls": "^2.11.4",
     "gulp": "^3.9.0",
     "gulp-minify-css": "^1.2.2",
+    "gulp-util": "^3.0.7",
     "istanbul": "^0.4.1",
     "mocha": "^2.3.4",
-    "typescript": "^1.7.3"
+    "typescript": "^1.7.3",
+    "webpack": "^1.12.9"
   }
 }
