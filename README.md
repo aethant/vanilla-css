@@ -119,3 +119,7 @@ Please report any bugs or submit feature requests to [Vanilla-CSS github issue t
 **Tony Phillips (aka neutraltone)**  
 *Developer / Lead Translator of UK to US english*  
 <https://github.com/neutraltone>  
+  
+**JD Flynn (aka dorf)**  
+*Project Evangelist / SEO Specialist*  
+<https://github.com/jddoesdev>  
