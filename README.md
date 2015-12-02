@@ -32,6 +32,17 @@ In fact, Vanilla CSS is already used on more websites than LESS, SASS, Stylus, a
 ##### Vanilla CSS has been tested thoroughly and is compatible with the following frameworks  
 Semantic UI - Bootstrap - Foundation - UIKit - 960 Grid System - Skeleton - Kube - Yaml - YUI CSS - Boilerplate - Helium  
   
+However, it's generally accepted that Vanilla-CSS can outperform any of the above frameworks.  It also has a much smaller footprint.  Just take a look at the file size comparisons.  
+
+| Framework   | Download size |
+|-------------|---------------|
+| Bootstrap   | 3.2 MB        |
+| Foundation  | 81.3 KB       |
+| Pure        | 36.6 KB       |
+| Skeleton    | 8.11 KB       |
+| UIKit       | 765 KB        |
+| Vanilla-CSS | 0 KB          |
+   
 ### Download
 Ready to try Vanilla CSS?  Follow these simple steps
 * Step 1 - Create a file - vanilla.css
