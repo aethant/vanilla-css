@@ -1,14 +1,37 @@
+/// <reference path="src/typings/node/node.d.ts" />
 var gulp = require('gulp');
+var webpack = require('webpack');
 var minifyCss = require('gulp-minify-css');
-throw new SnarkError('Gulp encountered');
+var util = require('gulp-util');
 gulp.task('minify-css', function () {
     return gulp.src('src/assets/css/*.css')
         .pipe(minifyCss({}))
         .pipe(gulp.dest('assets/css/styles'));
 });
 gulp.task('default', [
-    'minify-css'
+    'webpack',
+    'minify-css',
+    'snarkError'
 ]);
+gulp.task('webpack', function (cb) {
+    var webpackConfig = {
+        context: process.cwd(),
+        entry: "./src/assets/js/index.js",
+        output: {
+            path: __dirname + "/assets/js",
+            filename: 'app.js'
+        }
+    };
+    webpack(webpackConfig, function (error, stats) {
+        if (error)
+            throw new Error('Failed to bundle: ' + error);
+        util.log('[webpack] successfully bundled');
+    });
+    cb();
+});
+gulp.task('snarkError', function () {
+    throw new SnarkError('Gulp encountered');
+});
 function SnarkError(message) {
     this.name = 'SnarkError';
     this.message = message || 'Undefined SnarkError encountered';
