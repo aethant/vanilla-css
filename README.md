@@ -27,7 +27,10 @@ The Vanilla CSS team maintains every byte of code in the framework and works har
 * Netflix  
 * Stack Overflow  
 
-In fact, Vanilla CSS is already used on more websites than LESS, SASS, Stylus, and BEM - _combined_.  
+In fact, Vanilla CSS is already used on more websites than LESS, SASS, Stylus, and BEM - _combined_.  In addition Vanilla CSS is fully ready for mobile responsiveness (see @media queries)
+  
+##### Vanilla CSS has been tested thoroughly and is compatible with the following frameworks  
+Semantic UI - Bootstrap - Foundation - UIKit - 960 Grid System - Skeleton - Kube - Yaml - YUI CSS - Boilerplate - Helium  
   
 ### Download
 Ready to try Vanilla CSS?  Follow these simple steps
