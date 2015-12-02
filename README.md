@@ -1,5 +1,7 @@
 # Vanilla CSS
 
+[![Travis build status](https://travis-ci.org/aethant/vanilla-css.svg?branch=gh-pages)](https://travis-ci.org/aethant/vanilla-css)
+
 Vanilla CSS is a fast, lightweight, cross-platform CSS framework for building incredible, powerful web applications.
 
 ## Introduction
