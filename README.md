@@ -33,16 +33,37 @@ Ready to try Vanilla CSS?  Follow these simple steps
 ```
 3. Bam!  Bob's your uncle! Now you're ready to fill in the rest of that page with Vanilla CSS!  
   
+### Examples  
+*Element Selector* - Make a `<p>` tag red
+```
+p {
+    color: red;
+}
+```
+---  
+
+*Id selector* - Make an element with an id `my-id` blue
+```
+#my-id {
+    color: blue;
+}
+```
+---  
+
+*Class selector* - Make an element with class 'my-class' yellow
+```
+.my-class {
+    color: yellow;
+}
+```
+---  
+
 ### Testimonials  
 > Native support for HTML5 and other cutting-edge technologies makes me keep coming back to Vanilla CSS, time after time.  
+
 > Works great in all browsers, other than IE8 which can get a bit tricky, this framework has saved my life time after time.  
   
 ### Further Reading  
 * https://en.wikipedia.org/wiki/Cascading_Style_Sheets  
 * https://developer.mozilla.org/en-US/docs/Web/CSS  
 * http://www.w3schools.com/cssref/css_selectors.asp  
-
-
-
-
-
