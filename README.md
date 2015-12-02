@@ -26,12 +26,12 @@ In fact, Vanilla JS is already used on more websites than LESS, SASS, Stylus, an
   
 ### Download
 Ready to try Vanilla CSS?  Follow these simple steps
-1. Create a file - vanilla.css
-2. Add the following line to the top
+* Step 1 - Create a file - vanilla.css
+* Step 2 - Add the following line to the top
 ```
 /* my vanilla css */
 ```
-3. Bam!  Bob's your uncle! Now you're ready to fill in the rest of that page with Vanilla CSS!  
+* Step 3 - Bam!  Bob's your uncle! Now you're ready to fill in the rest of that page with Vanilla CSS!  
   
 ### Examples  
 *Element Selector* - Make a `<p>` tag red
