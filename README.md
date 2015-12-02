@@ -98,3 +98,24 @@ Just save your HTML document, open it in your favorite web browser, and see the 
 * https://en.wikipedia.org/wiki/Cascading_Style_Sheets  
 * https://developer.mozilla.org/en-US/docs/Web/CSS  
 * http://www.w3schools.com/cssref/css_selectors.asp  
+
+## Contribute
+Please report any bugs or submit feature requests to [Vanilla-CSS github issue tracker](https://github.com/aethant/vanilla-css/issues)  
+
+**Meet the Team** 
+
+*Alex (aka aethant)*  
+* Scrum Master  
+* <https://github.com/aethant>  
+
+*Carl Winkler (aka seikho)*  
+* Lead Developer  
+* <https://github.com/seikho>  
+
+*Justin Maat (aka jxm262)  
+* Lead Documentation Maintainer/Devops  
+* <https://github.com/jxm262>  
+
+*Tony Phillips*
+* Developer / Lead Translator of UK to US english
+* <https://github.com/neutraltone>  
