@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "test": "mocha",
-    "build": "tsc && gulp"
+    "build": "tsc && gulp",
+    "coveralls": "cat ./coverage/lcov.info | ./node_modules/.bin/coveralls"
   },
   "repository": {
     "type": "git",
@@ -23,9 +24,13 @@
   "homepage": "https://github.com/aethant/vanilla-css#readme",
   "devDependencies": {
     "chai": "^3.4.1",
+    "coveralls": "^2.11.4",
     "gulp": "^3.9.0",
     "gulp-minify-css": "^1.2.2",
+    "gulp-util": "^3.0.7",
+    "istanbul": "^0.4.1",
     "mocha": "^2.3.4",
-    "typescript": "^1.7.3"
+    "typescript": "^1.7.3",
+    "webpack": "^1.12.9"
   }
 }

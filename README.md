@@ -1,7 +1,8 @@
 ![vanilla css logo](assets/images/vanillacsslogo.jpg)
 ## Vanilla CSS - fast, lightweight, easy to understand framework for working with your front-end
 
-[![Travis build status](https://travis-ci.org/aethant/vanilla-css.svg?branch=gh-pages)](https://travis-ci.org/aethant/vanilla-css)  
+[![Travis build status](https://travis-ci.org/aethant/vanilla-css.svg?branch=gh-pages)](https://travis-ci.org/aethant/vanilla-css)
+[![Coverage Status](https://coveralls.io/repos/aethant/vanilla-css/badge.svg?branch=master)](https://coveralls.io/r/aethant/vanilla-css?branch=gh-pages)
 
 Introduction
 The Vanilla CSS team maintains every byte of code in the framework and works hard each day to make sure it is small and intuitive. Who's using Vanilla CSS? Glad you asked! Here are a few:
