@@ -1,46 +1,48 @@
-# Vanilla CSS
+## Vanilla CSS - fast, lightweight, easy to understand framework for working with your front-end
 
-Vanilla CSS is a fast, lightweight, cross-platform CSS framework for building incredible, powerful web applications.
-
-## Introduction
-
+Introduction
 The Vanilla CSS team maintains every byte of code in the framework and works hard each day to make sure it is small and intuitive. Who's using Vanilla CSS? Glad you asked! Here are a few:
 
-* Facebook
-* Google
-* YouTube
-* Yahoo
-* Wikipedia
-* Windows Live
-* Twitter
-* Amazon
+* Facebook	 
+* Google  
+* YouTube  
+* Yahoo  
+* Wikipedia  
+* Twitter  
+* Amazon  
 * LinkedIn
-* MSN
-* eBay
-* Microsoft
-* Tumblr
-* Apple
-* Pinterest
-* PayPal
-* Reddit
-* Netflix
-* Stack Overflow
+* MSN  
+* eBay  
+* Microsoft  
+* Tumblr	
+* Apple 
+* Pinterest	
+* PayPal  
+* Reddit  
+* Netflix  
+* Stack Overflow  
 
-In fact, Vanilla CSS is already used on more websites than Bootstrap, Foundation, Gumby, Blueprint, and 960gs - combined.
+In fact, Vanilla JS is already used on more websites than LESS, SASS, Stylus, and BEM - _combined_.  
+  
+### Download
+Ready to try Vanilla CSS?  Follow these simple steps
+1. Create a file - vanilla.css
+2. Add the following line to the top
+```
+/* my vanilla css */
+```
+3. Bam!  Bob's your uncle! Now you're ready to fill in the rest of that page with Vanilla CSS!  
+  
+### Testimonials  
+> Native support for HTML5 and other cutting-edge technologies makes me keep coming back to Vanilla CSS, time after time.  
+> Works great in all browsers, other than IE8 which can get a bit tricky, this framework has saved my life time after time.  
+  
+### Further Reading  
+* https://en.wikipedia.org/wiki/Cascading_Style_Sheets  
+* https://developer.mozilla.org/en-US/docs/Web/CSS  
+* http://www.w3schools.com/cssref/css_selectors.asp  
 
-## Getting Started
 
-The Vanilla CSS team takes pride in the fact that it is the most lightweight framework available anywhere; using our production-quality deployment strategy, your users' browsers will have Vanilla CSS loaded into memory before it even requests your site.
 
-To use Vanilla CSS, just put the following code anywhere in your application's HTML:
 
-<link src="path/to/vanilla.css" rel="stylesheet">
 
-That's right - no code at all. Vanilla CSS is so popular that browsers have been automatically loading it for over a decade.
-
-## Further Reading
-
-For more information about Vanilla CSS:
-
-check out the [Vanilla CSS documentation](http://www.w3.org/TR/CSS21/)
-read some books on [Vanilla CSS](https://github.com/rachelandrew/css-books)
