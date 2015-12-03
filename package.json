@@ -6,7 +6,8 @@
   "scripts": {
     "test": "mocha",
     "build": "tsc && gulp",
-    "coveralls": "cat ./coverage/lcov.info | ./node_modules/.bin/coveralls"
+    "coveralls": "cat ./coverage/lcov.info | ./node_modules/.bin/coveralls",
+    "start": "http-server"
   },
   "repository": {
     "type": "git",
@@ -32,5 +33,8 @@
     "mocha": "^2.3.4",
     "typescript": "^1.7.3",
     "webpack": "^1.12.9"
+  },
+  "dependencies": {
+    "http-server": "^0.8.5"
   }
 }
