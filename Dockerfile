@@ -6,7 +6,7 @@ ADD ./ /vanilla-css
 
 RUN cd /vanilla-css \
     && rm -rf node_modules \
-    && npm install
+    && npm install --production
 
 WORKDIR /vanilla-css
     
